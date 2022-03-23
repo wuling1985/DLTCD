@@ -1,0 +1,1 @@
+java -cp ./scala-library.jar;./pmodcalc.jar edu.fzu.bigdata.tools.modcalc.LocalModularityCalculation local enrondata_ae_output.txt enrondata.txt

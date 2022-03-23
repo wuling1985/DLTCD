@@ -1,0 +1,1 @@
+java -cp .;lib/weka.jar GreyKmeans2 node_vector_karate.txt 2 100 output.txt

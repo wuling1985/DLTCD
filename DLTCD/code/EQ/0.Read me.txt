@@ -1,0 +1,6 @@
+modcalc.bat  批处理文件
+overlapping_modularity.py，主要的指标计算文件
+pmodcalc.jar 相关的依赖包
+scala-library.jar 相关的依赖包
+output.txt  实验输出的社区结构（社区节点集，一行一个社区，超过一行，回车来分隔）
+network1k_0.1.txt  实验输入的边集合（顶点对集）
